@@ -1,7 +1,7 @@
 # 🎬 Netflix Clone
 
 ## 🌐 Live Demo  
-👉 https://sidra-net-flix-clone.netlify.app/  
+👉 https://ruqsaar-net-flix-clone.netlify.app/  
 A live web version of the Netflix-style app where you can explore UI and features directly.
 
 ---
