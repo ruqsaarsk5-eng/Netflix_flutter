@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone
+# 🎬 Netflix Clone.
 
 ## 🌐 Live Demo  
 👉 https://ruqsaar-net-flix-clone.netlify.app/  
